@@ -38,9 +38,6 @@ Sou um desenvolvedor baseado em Natal/RN, focado em criar soluções web seguras
 
 ---
 
-
-### 📊 Estatísticas do GitHub
-
 ### 📊 Estatísticas do GitHub
 
 <table border="0">
