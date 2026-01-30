@@ -19,7 +19,7 @@ Sou um desenvolvedor baseado em Natal/RN, focado em criar soluções web seguras
 
 ### 📈 Trajetória Profissional
 
-- **CODERN (Companhia Docas do RN)**: 2 anos de experiência em estágio, atuando no ciclo de vida de software, documentação técnica, QA (Quality Assurance) e definição de escopo de novas features.
+- **CODERN (Companhia Docas do RN)**: 1 ano de experiência em estágio, atuando no ciclo de vida de software, documentação técnica, QA (Quality Assurance) e definição de escopo de novas features.
 - **Projetos Acadêmicos**: Desenvolvimento de aplicações corporativas com foco em arquitetura MVC e segurança de dados.
 
 ---
