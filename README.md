@@ -27,7 +27,7 @@ Sou um desenvolvedor baseado em Natal/RN, focado em criar soluções web seguras
 ### 🚀 Projetos em Destaque
 
 - **[GEDADOS Workflow](https://github.com/erick003/Projeto-Dashboard)**: Dashboard operacional com gráficos dinâmicos (Chart.js), filtros de prazos críticos e implementação de segurança via UUID para prevenção de IDOR.
-- **Estudos de Lógica**: Repositório focado na resolução de desafios de algoritmos e estruturas de dados (LeetCode/URI).
+
 
 ---
 
