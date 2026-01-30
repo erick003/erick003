@@ -27,6 +27,7 @@ Sou um desenvolvedor baseado em Natal/RN, focado em criar soluções web seguras
 ### 🚀 Projetos em Destaque
 
 - **[GEDADOS Workflow](https://github.com/erick003/Projeto-Dashboard)**: Dashboard operacional com gráficos dinâmicos (Chart.js), filtros de prazos críticos e implementação de segurança via UUID para prevenção de IDOR.
+- **[Agenda de Ramais Corporativa](https://github.com/erick003/Projeto-ramal)**: Sistema CRUD completo para gerenciamento de contatos internos, com integração Django + MySQL, busca dinâmica processada no servidor e interface responsiva desenvolvida com Bootstrap 5.
 
 
 ---
