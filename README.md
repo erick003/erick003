@@ -41,7 +41,15 @@ Sou um desenvolvedor baseado em Natal/RN, focado em criar soluções web seguras
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erick003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erick003&layout=compact&langs_count=7&theme=dracula" />
-</p>
+### 📊 Estatísticas do GitHub
+
+<table border="0">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erick003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erick003&layout=compact&langs_count=7&theme=dracula" />
+    </td>
+  </tr>
+</table>
