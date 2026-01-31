@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Python & Django | Engenharia de Requisitos
 
-Sou um desenvolvedor baseado em Natal/RN, focado em criar soluções web seguras, organizadas e visualmente eficientes. Tenho sólida experiência em melhoria de processos e garantia de qualidade de software.
+Sou um desenvolvedor residente em Natal/RN, focado em criar soluções web seguras, organizadas e visualmente eficientes. Tenho sólida experiência em melhoria de processos e garantia de qualidade de software.
 
 ---
 
