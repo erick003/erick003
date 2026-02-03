@@ -1,4 +1,4 @@
-# Olá, eu sou o Erick! 👋
+# Olá, eu sou o Erick! 🙋🏻‍♂️
 
 ### Desenvolvedor Full Stack | Python & Django | Engenharia de Requisitos
 
