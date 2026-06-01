@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy" width="40" align="center"> Olá, eu sou o Erick! 
-### Desenvolvedor Full Stack | Python & Django | Engenharia de Requisitos
+### Desenvolvedor Full Stack | Python & Django | Engenharia de Requisitos | Product Designer (UX/UI)
 
 Sou um desenvolvedor residente em Natal/RN, focado em criar soluções web seguras, organizadas e visualmente eficientes. Tenho sólida experiência em melhoria de processos e garantia de qualidade de software.
 
