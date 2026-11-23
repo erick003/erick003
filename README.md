@@ -33,7 +33,11 @@ Sou um desenvolvedor residente em Natal/RN, focado em criar soluções web segur
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" align="center"> Estatísticas do GitHub
 
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=erick003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=erick003&layout=compact&langs_count=7&theme=dracula" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=erick003&show_icons=false&theme=dracula&hide_border=true&bg_color=141321&title_color=FF79C6&text_color=8BE9FD&include_all_commits=true&rank_icon=percentile"
+    alt="Estatísticas do GitHub de Erick"
+    width="500"
+  />
 </div>
