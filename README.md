@@ -36,7 +36,7 @@ Sou um desenvolvedor residente em Natal/RN, focado em criar soluções web segur
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=erick003&show_icons=false&theme=dracula&hide_border=true&bg_color=141321&title_color=FF79C6&text_color=8BE9FD&include_all_commits=true&rank_icon=percentile"
+    src="https://github-readme-stats-fast.vercel.app/api?username=erick003&show_icons=false&theme=dracula&hide_border=true&bg_color=141321&title_color=FF79C6&text_color=8BE9FD&include_all_commits=true&rank_icon=percentile"
     alt="Estatísticas do GitHub de Erick"
     width="500"
   />
